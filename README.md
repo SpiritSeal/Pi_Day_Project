@@ -12,4 +12,4 @@ Once you have your starting digit, you and the AI take turns subtracting numbers
 * Think of it as having some number of marbles, and you and your opponent take turns removing marbles from the the center. The person who takes the last marble wins
 The catch is that you and your opponent can only subtract 3, 1, or 4 marbles during your turn (get it? 3.14)
 
-#### AI Legend Nanda (named after the my school's Legendary Math teacher, Mr. Nanda, who taught Algebra II through a combination of Butter Chicken, Michael Jackson, and [this](https://www.youtube.com/watch?v=vTIIMJ9tUc8)) is your opponent. He is mathematically unbeatable.
+#### AI Legend Nanda (named after the my school's Legendary Math teacher, Mr. Surjit Nanda, who teaches Algebra II through a combination of Butter Chicken, Michael Jackson, and [this](https://www.youtube.com/watch?v=vTIIMJ9tUc8)) is your opponent. He is mathematically unbeatable.
