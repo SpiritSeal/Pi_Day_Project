@@ -1,7 +1,7 @@
 # Pi_Day_Project
 Pi day project 2018-2019
 
-This is the Pi day project that won my Math teacher's Pi day competition 3/14/19.
+This is the Pi day project that won my Math teacher's Pi day competition on 3/14/19 for pie. I worked with my friend Noah Sehman for the presentation and testing of the program, so a shoutout to him for that!
 
 ## It is a modified version of the game of NIM:
 ### Instructions:
