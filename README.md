@@ -13,3 +13,8 @@ Once you have your starting digit, you and the AI take turns subtracting numbers
 The catch is that you and your opponent can only subtract 3, 1, or 4 marbles during your turn (get it? 3.14)
 
 #### AI Legend Nanda (named after the my school's Legendary Math teacher, Mr. Surjit Nanda, who teaches Algebra II through a combination of Butter Chicken, Michael Jackson, and [this](https://www.youtube.com/watch?v=vTIIMJ9tUc8)) is your opponent. He is mathematically unbeatable.
+
+
+### A note about the files included in this GitHub repository
+* The .exe is the compiled version of the code. It is a text-based command line program, so keep that in mind when you run it.
+* The .sln is the .NET C# Visual Studio code file. Feel free to open it up to see how the AI works!
