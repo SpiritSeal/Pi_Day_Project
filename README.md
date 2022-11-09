@@ -1,3 +1,7 @@
+Note: 7th grade me was an idiot who didn't understand how C# apps work, and that the .sln file did not actually contain the project code. As such, the source code for this project is likely lost :(
+
+
+---
 # Pi_Day_Project
 Pi day project 2018-2019
 
